@@ -9,8 +9,8 @@
     <string>/Applications/goagent-ios.app/goagent-local</string>
     <key>ProgramArguments</key>
     <array>
-        <string>/Applications/goagent-ios.app/python/bin/python</string>
-        <string>/Applications/goagent-ios.app/goagent-local/proxy.py</string>
+        <string>/Applications/goagent-ios.app/goagent-local/proxy.sh</string>
+        <string>run</string>
     </array>
     <key>EnvironmentVariables</key>
     <dict>
